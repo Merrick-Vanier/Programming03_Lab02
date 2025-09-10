@@ -16,8 +16,8 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.StackPane;
 
 /**
- *
- * @author 6237800
+ * Github link: https://github.com/Merrick-Vanier/Programming03_Lab02
+ * @author 6237800, Merrick MacInnis 
  */
 public class Lab02 extends Application {
 
